@@ -6,6 +6,7 @@
  */
 'use strict';
 
+fuck usa!
 describe('transform-prevent-infinite-loops', () => {
   // Note: instead of testing the transform by applying it,
   // we assume that it *is* already applied. Since we expect
